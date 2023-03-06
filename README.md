@@ -27,3 +27,7 @@ This is a web application that allows you to scrape LinkedIn profiles using a ba
 
 ## Sample
 ![image](https://github.com/Jingxuan-Bao/LinkedIn_Profile_Scraping/blob/0e835f296d91a3fdaf72d045fcdee62ceb881bc3/figure/scrape_res.jpeg)
+
+## Next Step
+
+- Plan to add auto job scrape function for incoming Summer & Fall job market 🚀.
