@@ -178,5 +178,5 @@ def scrape_profile(scrape_username):
         'Location' : location,
         'About' : about_content,
         'Experience' : experiences,
-        'Education : ' : educations,
+        'Education' : educations,
         'Recommendation' : recommendations})
